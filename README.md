@@ -23,6 +23,7 @@ This project is not official. It is not affiliated with the respective owners an
 * Overlay
 * Plants
 * Procedures (77 procedure blocks, and 4 global triggers)
+* Ranged item
 * Recipes
 * Tags
 * Tools
